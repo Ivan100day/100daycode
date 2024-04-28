@@ -1,3 +1,14 @@
+"""This script returns the maximum number a string in input L can be assembled from the letters provided in input S.
+
+The solution accepts non-empty inputs where S is a string and L is a list of strings.
+
+Constraints are:
+0 < len(S) < 100
+0 < len(L) < 45
+
+"""
+
+
 from collections import Counter
 import sys
 
