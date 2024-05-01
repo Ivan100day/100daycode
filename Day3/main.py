@@ -1,4 +1,4 @@
-"""Tests the HashMap class and its functions"""
+"""Tests the HashMap class and its functions."""
 
 from hash_map import HashMap
 
